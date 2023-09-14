@@ -12,7 +12,7 @@ module.exports = [
     firstDescriptionText: (
       <>
         <p>
-          Proficient in utilizing Bubble.io, I possess the capability to construct a diverse range of web and mobile applications. This proficiency is rooted in a deep understanding of the platform's intricacies, allowing me to harness its full potential in delivering high-quality, functional, and visually appealing applications. From conceptualization to execution, I excel in leveraging Bubble.io's robust features and intuitive interface, ensuring seamless navigation and optimal user experiences across various devices.
+          Proficient in utilizing Bubble.io, I possess the capability to construct a diverse range of web and mobile applications. This proficiency is rooted in a deep understanding of the platform&apos;s intricacies, allowing me to harness its full potential in delivering high-quality, functional, and visually appealing applications. From conceptualization to execution, I excel in leveraging Bubble.io&apos;s robust features and intuitive interface, ensuring seamless navigation and optimal user experiences across various devices.
         </p>
         <p>
           With a proven track record of successful projects, I have demonstrated the versatility of Bubble.io by creating dynamic applications that cater to diverse industry needs. Whether it involves e-commerce platforms, social networking sites, or custom business solutions, I bring a meticulous approach to development, ensuring that each application is tailored to meet specific client requirements. My expertise in Bubble.io not only accelerates the development process but also guarantees a polished end product that stands out in terms of functionality and design.
@@ -52,7 +52,7 @@ module.exports = [
         <div className="in_list">
           <ol>
             <li>Discuss project ideas and requirements thoroughly.</li>
-            <li>During the design phase, while I'm not a designer, I can assist in brainstorming and conceptualizing the layout and user interface.</li>
+            <li>During the design phase, while I&apos;m not a designer, I can assist in brainstorming and conceptualizing the layout and user interface.</li>
             <li>Select an appropriate tech stack based on project needs and preferences.</li>
             <li>Initiate the coding process, starting with front-end development using HTML, CSS, and JavaScript. Simultaneously, work on back-end logic and database integration.</li>
             <li>Thoroughly test the application for functionality, performance, and compatibility to ensure a seamless user experience.</li>
@@ -74,7 +74,7 @@ module.exports = [
     popupTitle: `AI integration for content generation`,
     firstDescriptionText: (
       <>
-        <p>I have substantial experience in leveraging OpenAI's Chat GPT to generate precise and contextually appropriate text for diverse applications. Additionally, I have expertise in various AI-powered art generation techniques, including stable diffusion, SDXL, Midjourney, and more. This proficiency enables me to create visually striking and unique AI-generated content for a range of creative and functional purposes.</p>
+        <p>I have substantial experience in leveraging OpenAI&apos;s Chat GPT to generate precise and contextually appropriate text for diverse applications. Additionally, I have expertise in various AI-powered art generation techniques, including stable diffusion, SDXL, Midjourney, and more. This proficiency enables me to create visually striking and unique AI-generated content for a range of creative and functional purposes.</p>
       </>
     ),
     serviceListDescriptions: (
@@ -82,8 +82,8 @@ module.exports = [
         <h3>What Is AI content generation?</h3>
         <p>AI content generation refers to the process of using artificial intelligence algorithms to create text, images, videos, and other forms of digital content. It relies on deep learning models trained on vast datasets to understand patterns and generate output that mimics human-like creativity.</p>
         <p>Text generation models, like GPT-3, can produce coherent and contextually relevant written content for a wide range of applications, from drafting emails to generating creative stories. Image generation models, such as DALL-E, create visual content based on textual descriptions.</p>
-        <p>AI content generation has applications in marketing, content creation, design, and more. However, it's important to note that while AI can generate content efficiently, it may lack human intuition and may require human oversight to ensure quality and relevance.</p>
-        <p>OpenAI's GPT-3, GPT-4, and similar models have demonstrated significant advancements in this field, enabling more sophisticated and accurate content generation than ever before.</p>
+        <p>AI content generation has applications in marketing, content creation, design, and more. However, it&apos;s important to note that while AI can generate content efficiently, it may lack human intuition and may require human oversight to ensure quality and relevance.</p>
+        <p>OpenAI&apos;s GPT-3, GPT-4, and similar models have demonstrated significant advancements in this field, enabling more sophisticated and accurate content generation than ever before.</p>
       </>
     ),
   },

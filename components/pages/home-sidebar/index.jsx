@@ -134,7 +134,7 @@ const EdinaHomeSidebar = () => {
           <div className="edina_tm_title">
             <h3>Contact</h3>
             <p>
-              Get in touch to discuss your web development needs. I'm here to bring your digital vision to life.
+              Get in touch to discuss your web development needs. I&apos;m here to bring your digital vision to life.
             </p>
           </div>
           <div className="extra_info">
