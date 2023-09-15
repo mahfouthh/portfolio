@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: 1,
-    tooltipId: "Bubble.io",
+    tooltipId: "Bubble.io-pflegetiger",
     portfolioImage: "img/portfolio/pflegetiger.png",
     portfolioLink: "https://www.pflegetiger.de/",
     title: "Pflegetiger",
@@ -28,7 +28,7 @@ module.exports = [
   },
   {
     id: 2,
-    tooltipId: "Bubble.io",
+    tooltipId: "Bubble.io-treepoints",
     portfolioImage: "img/portfolio/treepoints.png",
     portfolioLink: "https://treepoints.green/",
     title: "Treepoints",
@@ -55,7 +55,7 @@ module.exports = [
   },
   {
     id: 3,
-    tooltipId: "Bubble.io",
+    tooltipId: "Bubble.io-byword",
     portfolioImage: "img/portfolio/byword.png",
     portfolioLink: "https://byword.ai/",
     title: "Byword AI",
@@ -83,7 +83,7 @@ module.exports = [
   },
   {
     id: 4,
-    tooltipId: "Next.js",
+    tooltipId: "Next.js-karststonepaper",
     portfolioImage: "img/portfolio/karststonepaper.png",
     portfolioLink: "https://www.karststonepaper.com/",
     title: "Karststonepaper",
@@ -111,7 +111,7 @@ module.exports = [
   },
   {
     id: 5,
-    tooltipId: "Next.js",
+    tooltipId: "Next.js-veryableops",
     portfolioImage: "img/portfolio/veryableops.png",
     portfolioLink: "https://www.veryableops.com/",
     title: "Web Apps Shot",
