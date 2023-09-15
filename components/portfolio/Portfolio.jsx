@@ -13,7 +13,7 @@ const Portfolio = () => {
     arrow: true,
     infinite: true,
     speed: 800,
-    slidesToShow: 3,
+    slidesToShow: 2,
     slidesToScroll: 1,
     autoplay: false,
     draggable: false,
