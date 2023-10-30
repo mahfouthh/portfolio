@@ -136,4 +136,60 @@ module.exports = [
       </>
     ),
   },
+  {
+    id: 6,
+    tooltipId: "Bubble.io - familywealth",
+    portfolioImage: "img/portfolio/familywealth.png",
+    portfolioLink: "https://familywealth.us/",
+    title: "Family Wealth US",
+    meta: "Bubble.io",
+    clientName: "FamilyWealthTM",
+    category: "Bubble.io",
+    date: "January 12, 2023",
+    projectDescriptions    : (
+      <>
+        <p>
+          This is website I built using bubble. It provides smart & clean view to customers for presenting family wealth service. 
+          The website is consistent across pages, and gives no distraction to customers.
+        </p>
+      </>
+    )
+  },
+  {
+    id: 7,
+    tooltipId: "Bubble.io - Skillful Generator",
+    portfolioImage: "img/portfolio/generator.skillful.com.png",
+    portfolioLink: "https://generator.skillful.com",
+    title: "Generator Skillful",
+    meta: "Bubble.io",
+    clientName: "Generator Skillful",
+    category: "Bubble.io",
+    date: "Mar 22, 2023",
+    projectDescriptions    : (
+      <>
+        <p>
+          This is a professional job posting generator website built using bubble and gpt4.
+          I have implemented smooth UI/UX as well as user guide flow for those first visitors
+        </p>
+      </>
+    )
+  },
+  {
+    id: 8,
+    tooltipId: "Bubble.io - Techfive",
+    portfolioImage: "img/portfolio/t5it.com.png",
+    portfolioLink: "https://t5it.com/",
+    title: "Techfive",
+    meta: "Bubble.io",
+    clientName: "techfive",
+    category: "Bubble.io",
+    date: "Apirl 2, 2023",
+    projectDescriptions    : (
+      <>
+        <p>
+          This is techfive team landing page built using Bubble.io. I have converted provided design into bubble web pages with pixel perfect manner including mega menu, smooth animations. 
+        </p>
+      </>
+    )
+  },
 ];
