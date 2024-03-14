@@ -24,6 +24,21 @@ const Seo = ({ pageTitle, font }) => (
 
       {font && <link href={font} rel="stylesheet" />}
       <link rel="icon" href="favicon.ico" />
+
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" />
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+      <script type="text/javascript" dangerouslySetInnerHTML={{
+        __html: `
+        window.onload = function() {
+          Calendly.initBadgeWidget({
+            url: 'https://calendly.com/maor-hevron/interview',
+            text: 'Schedule a Quick Talk',
+            color: '#0069ff',
+            textColor: '#ffffff',
+            branding: undefined
+          });
+        }
+      `}} />
     </Head>
   </>
 );
